@@ -1,0 +1,7 @@
+# Standard library handles data, risk, replay, scanner, SEC and news.
+# Optional ML probability model and out-of-sample Brier score:
+scikit-learn>=1.2,<2
+# Optional self-contained interactive candlestick dashboard:
+plotly>=5.15,<7
+# Free open-source US exchange holiday/early-close calendar for truthful live checks:
+exchange-calendars>=4.6,<6
