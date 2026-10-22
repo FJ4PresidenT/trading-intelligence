@@ -1,0 +1,1 @@
+Automatische Trading-Analyse
