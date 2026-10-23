@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "report_type": "DYNAMIC_WATCHLIST_RESEARCH_NOT_LIVE_SIGNALS",
+  "generated_at_utc": "2026-10-23T13:56:12.796191+00:00",
+  "market_date_ny": "2026-10-23",
+  "provider": "Yahoo public chart (unofficial; potentially delayed/incomplete)",
+  "live_market_verified": false,
+  "selection_method": "prior-day liquidity/return/range among fixed 25-symbol universe",
+  "universe_size": 25,
+  "selected": [
+    {
+      "symbol": "AMD",
+      "prior_session": "2026-10-22",
+      "prior_close_usd": 507.76,
+      "prior_return_pct": -8.131,
+      "prior_range_pct": 5.392,
+      "prior_volume": 22482129,
+      "ranking_score": 26.421,
+      "latest_completed_bar_ny": "2026-10-23T09:50:00-04:00",
+      "signal": {
+        "status": "NO_CONFIRMED_LIVE_SIGNAL",
+        "reason": "Public Yahoo chart cannot independently verify live consolidated market quote"
+      }
+    },
+    {
+      "symbol": "META",
+      "prior_session": "2026-10-22",
+      "prior_close_usd": 648.91,
+      "prior_return_pct": -7.09,
+      "prior_range_pct": 6.377,
+      "prior_volume": 37261108,
+      "ranking_score": 25.749,
+      "latest_completed_bar_ny": "2026-10-23T09:50:00-04:00",
+      "signal": {
+        "status": "NO_CONFIRMED_LIVE_SIGNAL",
+        "reason": "Public Yahoo chart cannot independently verify live consolidated market quote"
+      }
+    },
+    {
+      "symbol": "AMZN",
+      "prior_session": "2026-10-22",
+      "prior_close_usd": 250.49,
+      "prior_return_pct": -4.524,
+      "prior_range_pct": 4.136,
+      "prior_volume": 40366639,
+      "ranking_score": 18.187,
+      "latest_completed_bar_ny": "2026-10-23T09:50:00-04:00",
+      "signal": {
+        "status": "NO_CONFIRMED_LIVE_SIGNAL",
+        "reason": "Public Yahoo chart cannot independently verify live consolidated market quote"
+      }
+    },
+    {
+      "symbol": "HD",
+      "prior_session": "2026-10-22",
+      "prior_close_usd": 327.695,
+      "prior_return_pct": 4.332,
+      "prior_range_pct": 4.382,
+      "prior_volume": 4713238,
+      "ranking_score": 17.64,
+      "latest_completed_bar_ny": "2026-10-23T09:50:00-04:00",
+      "signal": {
+        "status": "NO_CONFIRMED_LIVE_SIGNAL",
+        "reason": "Public Yahoo chart cannot independently verify live consolidated market quote"
+      }
+    },
+    {
+      "symbol": "NVDA",
+      "prior_session": "2026-10-22",
+      "prior_close_usd": 212.284,
+      "prior_return_pct": -4.321,
+      "prior_range_pct": 3.59,
+      "prior_volume": 99977323,
+      "ranking_score": 17.394,
+      "latest_completed_bar_ny": "2026-10-23T09:50:00-04:00",
+      "signal": {
+        "status": "NO_CONFIRMED_LIVE_SIGNAL",
+        "reason": "Public Yahoo chart cannot independently verify live consolidated market quote"
+      }
+    },
+    {
+      "symbol": "AVGO",
+      "prior_session": "2026-10-22",
+      "prior_close_usd": 323.33,
+      "prior_return_pct": -4.261,
+      "prior_range_pct": 3.031,
+      "prior_volume": 20432204,
+      "ranking_score": 16.463,
+      "latest_completed_bar_ny": "2026-10-23T09:50:00-04:00",
+      "signal": {
+        "status": "NO_CONFIRMED_LIVE_SIGNAL",
+        "reason": "Public Yahoo chart cannot independently verify live consolidated market quote"
+      }
+    },
+    {
+      "symbol": "CRM",
+      "prior_session": "2026-10-22",
+      "prior_close_usd": 250.24,
+      "prior_return_pct": 3.542,
+      "prior_range_pct": 3.884,
+      "prior_volume": 8698992,
+      "ranking_score": 15.637,
+      "latest_completed_bar_ny": "2026-10-23T09:50:00-04:00",
+      "signal": {
+        "status": "NO_CONFIRMED_LIVE_SIGNAL",
+        "reason": "Public Yahoo chart cannot independently verify live consolidated market quote"
+      }
+    },
+    {
+      "symbol": "TSLA",
+      "prior_session": "2026-10-22",
+      "prior_close_usd": 374.67,
+      "prior_return_pct": -3.075,
+      "prior_range_pct": 4.043,
+      "prior_volume": 77371685,
+      "ranking_score": 15.424,
+      "latest_completed_bar_ny": "2026-10-23T09:50:00-04:00",
+      "signal": {
+        "status": "NO_CONFIRMED_LIVE_SIGNAL",
+        "reason": "Public Yahoo chart cannot independently verify live consolidated market quote"
+      }
+    }
+  ],
+  "errors": {},
+  "warning": "Research-only. No verified live/consolidated quotes. No 100% coverage. No profits guaranteed."
+}
