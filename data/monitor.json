@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "report_type": "DYNAMIC_WATCHLIST_RESEARCH_NOT_LIVE_SIGNALS",
-  "generated_at_utc": "2026-11-05T21:29:27.464903+00:00",
+  "generated_at_utc": "2026-11-05T21:45:08.995488+00:00",
   "market_date_ny": "2026-11-05",
   "provider": "Yahoo public chart (unofficial; potentially delayed/incomplete)",
   "live_market_verified": false,
@@ -14,8 +14,8 @@
       "prior_close_usd": 556.03,
       "prior_return_pct": 6.771,
       "prior_range_pct": 3.023,
-      "prior_volume": 41288019,
-      "ranking_score": 21.745,
+      "prior_volume": 62359805,
+      "ranking_score": 21.835,
       "latest_completed_bar_ny": "2026-11-05T15:55:00-05:00",
       "signal": {
         "status": "NO_CONFIRMED_LIVE_SIGNAL",
@@ -53,11 +53,11 @@
     {
       "symbol": "AAPL",
       "prior_session": "2026-11-04",
-      "prior_close_usd": 349.61,
-      "prior_return_pct": 5.387,
+      "prior_close_usd": 349.62,
+      "prior_return_pct": 5.39,
       "prior_range_pct": 3.856,
-      "prior_volume": 131827778,
-      "ranking_score": 19.961,
+      "prior_volume": 73189346,
+      "ranking_score": 19.839,
       "latest_completed_bar_ny": "2026-11-05T15:55:00-05:00",
       "signal": {
         "status": "NO_CONFIRMED_LIVE_SIGNAL",
@@ -107,13 +107,13 @@
       }
     },
     {
-      "symbol": "GOOGL",
+      "symbol": "TSLA",
       "prior_session": "2026-11-04",
-      "prior_close_usd": 288.99,
-      "prior_return_pct": 3.244,
-      "prior_range_pct": 4.491,
-      "prior_volume": 43979645,
-      "ranking_score": 16.031,
+      "prior_close_usd": 385.3,
+      "prior_return_pct": -3.244,
+      "prior_range_pct": 4.293,
+      "prior_volume": 114668286,
+      "ranking_score": 16.104,
       "latest_completed_bar_ny": "2026-11-05T15:55:00-05:00",
       "signal": {
         "status": "NO_CONFIRMED_LIVE_SIGNAL",
