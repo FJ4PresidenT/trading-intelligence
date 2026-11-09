@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "report_type": "DYNAMIC_WATCHLIST_RESEARCH_NOT_LIVE_SIGNALS",
-  "generated_at_utc": "2026-11-09T17:08:03.394376+00:00",
+  "generated_at_utc": "2026-11-09T18:09:22.041940+00:00",
   "market_date_ny": "2026-11-09",
   "provider": "Yahoo public chart (unofficial; potentially delayed/incomplete)",
   "live_market_verified": false,
@@ -16,7 +16,7 @@
       "prior_range_pct": 5.897,
       "prior_volume": 41784593,
       "ranking_score": 27.034,
-      "latest_completed_bar_ny": "2026-11-09T12:00:00-05:00",
+      "latest_completed_bar_ny": "2026-11-09T13:00:00-05:00",
       "signal": {
         "status": "NO_CONFIRMED_LIVE_SIGNAL",
         "reason": "Public Yahoo chart cannot independently verify live consolidated market quote"
@@ -30,7 +30,7 @@
       "prior_range_pct": 4.534,
       "prior_volume": 51541136,
       "ranking_score": 18.186,
-      "latest_completed_bar_ny": "2026-11-09T12:00:00-05:00",
+      "latest_completed_bar_ny": "2026-11-09T13:00:00-05:00",
       "signal": {
         "status": "NO_CONFIRMED_LIVE_SIGNAL",
         "reason": "Public Yahoo chart cannot independently verify live consolidated market quote"
@@ -44,7 +44,7 @@
       "prior_range_pct": 4.198,
       "prior_volume": 21025413,
       "ranking_score": 16.104,
-      "latest_completed_bar_ny": "2026-11-09T12:00:00-05:00",
+      "latest_completed_bar_ny": "2026-11-09T13:00:00-05:00",
       "signal": {
         "status": "NO_CONFIRMED_LIVE_SIGNAL",
         "reason": "Public Yahoo chart cannot independently verify live consolidated market quote"
@@ -58,7 +58,7 @@
       "prior_range_pct": 3.637,
       "prior_volume": 5450491,
       "ranking_score": 16.048,
-      "latest_completed_bar_ny": "2026-11-09T12:00:00-05:00",
+      "latest_completed_bar_ny": "2026-11-09T13:00:00-05:00",
       "signal": {
         "status": "NO_CONFIRMED_LIVE_SIGNAL",
         "reason": "Public Yahoo chart cannot independently verify live consolidated market quote"
@@ -72,13 +72,10 @@
       "prior_range_pct": 5.183,
       "prior_volume": 155379568,
       "ranking_score": 16.014,
-      "latest_completed_bar_ny": "2026-11-09T12:00:00-05:00",
+      "latest_completed_bar_ny": "2026-11-09T13:00:00-05:00",
       "signal": {
-        "status": "HISTORICAL_OR_DELAYED_BREAKOUT_WATCH_ONLY",
-        "reason": "Close above first 15min range, recent bar volume >=1.5x median; NOT verified real-time",
-        "reference_breakout_usd": 176.45,
-        "reference_stop_usd": 176.13,
-        "bar_timestamp_ny": "2026-11-09T12:00:00-05:00"
+        "status": "NO_CONFIRMED_LIVE_SIGNAL",
+        "reason": "Public Yahoo chart cannot independently verify live consolidated market quote"
       }
     },
     {
@@ -89,7 +86,7 @@
       "prior_range_pct": 9.038,
       "prior_volume": 53399035,
       "ranking_score": 15.638,
-      "latest_completed_bar_ny": "2026-11-09T12:00:00-05:00",
+      "latest_completed_bar_ny": "2026-11-09T13:00:00-05:00",
       "signal": {
         "status": "NO_CONFIRMED_LIVE_SIGNAL",
         "reason": "Public Yahoo chart cannot independently verify live consolidated market quote"
@@ -103,7 +100,7 @@
       "prior_range_pct": 7.358,
       "prior_volume": 25820234,
       "ranking_score": 13.629,
-      "latest_completed_bar_ny": "2026-11-09T12:00:00-05:00",
+      "latest_completed_bar_ny": "2026-11-09T13:00:00-05:00",
       "signal": {
         "status": "NO_CONFIRMED_LIVE_SIGNAL",
         "reason": "Public Yahoo chart cannot independently verify live consolidated market quote"
@@ -117,7 +114,7 @@
       "prior_range_pct": 1.64,
       "prior_volume": 28721493,
       "ranking_score": 12.83,
-      "latest_completed_bar_ny": "2026-11-09T12:00:00-05:00",
+      "latest_completed_bar_ny": "2026-11-09T13:00:00-05:00",
       "signal": {
         "status": "NO_CONFIRMED_LIVE_SIGNAL",
         "reason": "Public Yahoo chart cannot independently verify live consolidated market quote"
