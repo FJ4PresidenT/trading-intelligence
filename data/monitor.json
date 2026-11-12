@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "report_type": "DYNAMIC_WATCHLIST_RESEARCH_NOT_LIVE_SIGNALS",
-  "generated_at_utc": "2026-11-12T21:31:21.193549+00:00",
+  "generated_at_utc": "2026-11-12T21:45:37.755509+00:00",
   "market_date_ny": "2026-11-12",
   "provider": "Yahoo public chart (unofficial; potentially delayed/incomplete)",
   "live_market_verified": false,
